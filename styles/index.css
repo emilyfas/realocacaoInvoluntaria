@@ -1,0 +1,44 @@
+#textoSobreEmpresa{
+  color: rgb(0, 68, 102);
+  margin-right: 50px;
+  max-width: 550px;
+  min-width: 400px;
+}
+#textoSobreEmpresa h2{
+  margin-bottom: 20px;
+}
+#sobreEmpresa{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: rgb(244,244,245);
+background: radial-gradient(circle, rgba(244,244,245,1) 0%, rgba(217,225,230,1) 32%, rgba(170,193,204,1) 66%, rgba(85,134,158,1) 100%);
+}
+#sobreProjeto{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: rgb(244,244,245);
+  background: radial-gradient(circle, rgba(244,244,245,1) 0%, rgba(217,225,230,1) 32%, rgba(170,193,204,1) 66%, rgba(85,134,158,1) 100%);
+}
+#textoProjeto{
+  color: rgb(0, 68, 102);
+  margin-left: 50px;
+  max-width: 510px;
+  min-width: 400px;
+}
+#textoProjeto h2{
+  margin-bottom: 20px;
+}
+
+#formLogin{
+  padding: 10px;
+}
+#btnLogin{
+  background-color: rgb(0, 68, 102);
+  border: 0;
+}

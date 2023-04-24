@@ -1,0 +1,294 @@
+  <!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../styles/formulario.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+  <title>Mineradora Fernandes</title>
+</head>
+<body>
+<header>
+      <nav class="navbar navbar-expand-sm navbar-light bg-light">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="../index.html">
+            <img src="../images\logo-removebg-preview.png" width="44" height="35" class="d-inline-block" alt="Logotipo Mineradora Fernandes">Fernandes
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="../index.html">Sobre nós</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../index.html">Projeto de Realocação</a>
+              </li>
+            </ul>
+            
+            <div class="navbar-nav">
+              <div id="loginNav" class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" style="color: rgb(0, 68, 102);">Login</a>
+                
+                <form id="formLogin" class="dropdown-menu">
+                  <div class="mb-3">
+                    <label for="inputUsuario" class="form-label">Usuario</label>
+                    <input type="text" class="form-control" id="inputUsuario" aria-describedby="legendaUsuario">
+                    <div id="legendaUsuario" class="form-text">Nunca iremos compartilhar essa informação.
+                    </div>
+                  </div>
+                  <div class="mb-3">
+                    <label for="InputSenha" class="form-label">Senha</label>
+                    <input type="password" class="form-control" id="InputSenha">
+                  </div>
+                  <button id="btnLogin" type="submit" class="btn btn-primary">Enviar</button>
+                </form>
+              </div>
+              
+              <div class="nav-item">
+                <a class="nav-link" href="#formulario" style="color: rgb(0, 68, 102);">Cadastro</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+
+
+
+  <main>
+   <div id="formulario">
+     <form class="container-sm mt-5">
+       <h2 class="text-center">
+            Formulário de Realocação Involuntária
+        </h2>
+         <h5 class="pt-3 pb-3">Primeiro informe os dados do representante da residência:</h5>
+         <div class="form-group">
+            <label for="nome" class="required">Nome completo:</label>
+            <input type="text" required id="nome" name="nome" class="form-control">
+        </div><br>
+        
+        <div class="form-group row">
+            <div class="col-md-4 col-lg-3 col-xl-3">
+              <label for="idade" class="required">Idade:</label>
+            <input type="number" required min="1" max="122" id="idade" name="idade" class="form-control">
+            </div>
+            
+            <div class="col-md-4 col-lg-3 col-xl-3">
+              <label for="nascimento">Data de nascimento:</label>
+            <input type="date" min="1900-12-31" id="nascimento" name="nascimento" class="form-control">
+            </div>
+            
+            <div class="col-md-4 col-lg-3 col-xl-3">
+              <label for="cpf" class="required">CPF:</label>
+            <input type="number" required maxlength="11" id="cpf" name="cpf" class="form-control">
+            </div>
+            
+        </div><br>
+         
+         
+         
+         
+         <div class="form-group">
+            <label for="profissao">Profissão:</label>
+            <input type="text" id="profissao" name="profissao" class="form-control" aria-describedby="legendaProfissao">
+            <div id="legendaProfissao" class="form-text">Caso esteja desempregado(a), digite "Desempregado".
+                    </div>
+        </div><br>
+         
+        <div class="form-group row">
+            <div class="col-md-4 col-lg-3 col-xl-3">
+              <label for="moradiaCidade" class="required">Cidade onde mora:</label>
+            <input type="text" id="moradiaCidade" name="moradiaCidade" class="form-control">
+            </div>
+            
+            <div class="col-md-4 col-lg-3 col-xl-3">
+              <label for="moradiaUf" class="required">Estado:</label>
+            <select required id="moradiaUf" name="moradiaUf" class="form-control">
+                
+                <option value="none">Clique para selecionar</option>
+                <option value="AC">Acre</option>
+                <option value="AL">Alagoas</option>
+                <option value="AP">Amapá</option>
+                <option value="AM">Amazonas</option>
+                <option value="BA">Bahia</option>
+                <option value="CE">Ceará</option>
+                <option value="DF">Distrito Federal</option>
+                <option value="ES">Espírito Santo</option>
+                <option value="GO">Goiás</option>
+                <option value="MA">Maranhão</option>
+                <option value="MT">Mato Grosso</option>
+                <option value="MS">Mato Grosso do Sul</option>
+                <option value="MG">Minas Gerais</option>
+                <option value="PA">Pará</option>
+                <option value="PB">Paraíba</option>
+                <option value="PR">Paraná</option>
+                <option value="PE">Pernambuco</option>
+                <option value="PI">Piauí</option>
+                <option value="RJ">Rio de Janeiro</option>
+                <option value="RN">Rio Grande do Norte</option>
+                <option value="RS">Rio Grande do Sul</option>
+                <option value="RO">Rondônia</option>
+                <option value="RR">Roraima</option>
+                <option value="SC">Santa Catarina</option>
+                <option value="SP">São Paulo</option>
+                <option value="SE">Sergipe</option>
+                <option value="TO">Tocantins</option>
+              </select>
+            </div>
+
+            <div class="col-md-4 col-lg-3 col-xl-3">
+              <label for="numeroTele" class="required">Número:</label>
+            <input type="number" required maxlength="9" id="numeroTele" name="numeroTele" class="form-control"
+                placeholder="99999-9999">
+            </div>
+        </div><br>
+         
+         
+         
+        <div class="form-group">
+            <label for="anexoDocumento">Anexo de documentos:</label>
+              <input type="file" id="anexoDocumento" name="anexoDocumento" class="form-control" aria-describedby="legendaAnexoDocumento">
+              
+              <div id="legendaAnexoDocumentos" class="form-text">Caso possível fazer anexo de documentos como cpf, carteira de trabalho, comprovante de endereço e etc.
+              </div>
+        </div><br>
+        
+        
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" class="form-control"
+                placeholder="123@exemplo.com">
+        </div><br>
+       
+        <h5 class="pt-3 pb-3">Agora informe os dados da residência:</h5>
+        <div class="form-group row">
+          <div class="col-md-8 col-lg-6 col-xl-6">
+            <label for="rua" class="required">Rua/Avenida:</label>
+            <input type="text" required id="rua" name="rua" class="form-control">
+          </div>
+          <div class="col-md-4 col-lg-3 col-xl-3">
+            <label for="complementoRua" class="required">Complemento:</label>
+            <input type="number" required id="complementoRua" name="complementoRua" class="form-control">
+          </div>
+            
+        </div><br>
+        
+        
+        <div class="form-group row">
+            <div class="col-md-4 col-lg-3 col-xl-3">
+              <label for="comodos">Quantidade de cômodos:</label>
+              <input type="number" maxlength="2" id="comodos" name="comodos" class="form-control" aria-describedby="legendaComodos">
+              <div id="legendaComodos" class="form-text">Incluir garagem caso possua.
+              </div>
+            </div>
+            
+            <div class="col-md-4 col-lg-3 col-xl-3">
+              <label for="casaPropria">Casa própria?</label>
+              <select id="casaPropria" name="casaPropria" class="form-control">
+                
+                <option value="none">Clique para selecionar</option>
+                <option value="sim">Sim</option>
+                <option value="nao">Não</option>
+              </select>
+            </div>
+            
+            <div class="col-md-4 col-lg-3 col-xl-3">
+              <label for="qtdResidentes" class="required">Quantidade de residentes:</label>
+              <input type="number" accept="audio/*" required id="qtdResidentes" name="qtdResidentes" class="form-control" aria-describedby="legendaResidentes">
+              <div id="legendaResidentes"  class="form-text">Não incluir crianças menores de 10 anos.
+                    </div>
+            </div>
+            
+        </div><br>
+        <div class="d-flex justify-content-center">
+        <input type="submit" id="btnEnviar" value="Enviar" class="col-md-3 col-lg-2 col-xl-2 rounded-pill">
+        </div>
+     </form>
+     
+   </div>
+   
+    
+  </main>
+
+
+
+
+
+
+
+
+
+
+
+<footer class="text-center text-lg-start bg-light text-muted">
+  <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+    <div class="me-5 d-none d-lg-block">
+      <span>Onde você pode me encontrar:</span>
+    </div>
+
+    <div>
+      <a href="https://www.linkedin.com/in/emilly-fernandes-alves-de-souza-2b451a24b" class="me-4"><img src="../images/iconsSocialMedia/linkedin.png" alt="Logotipo LinkedIn" style="width:25px;height:25px;"></a>
+      
+      <a href="tel:+5531989018696" class="me-4"><img src="../images/iconsSocialMedia/whatsapp.png" alt="Logotipo WhatsApp" style="width:25px;height:25px;"></a>
+      
+      <a href="https://github.com/emilyfas" class="me-4"><img src="../images/iconsSocialMedia/github.png" alt="Logotipo GitHub" style="width:25px;height:25px;"></a>
+      
+      <a href="https://twitter.com/EmillyFas?t=VxW8cttbR3suSZ5q98cJgw&s=09" class="me-4"><img src="../images/iconsSocialMedia/twitter (1).png" alt="Logotipo Twitter" style="width:25px;height:25px;"></a>
+    </div>
+  </section>
+
+  <section class="">
+    <div class="container text-center text-md-start mt-5">
+      <div class="row mt-3">
+        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+
+          <h6 class="text-uppercase fw-bold mb-4">
+            Feito por: <br>
+            <i class="fas fa-gem me-3">Emilly Fernandes</i>
+          </h6>
+          <p>
+            Feito com HTML, CSS, Bootstrap 5 e JavaScript.
+          </p>
+        </div>
+    
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+          <h6 class="text-uppercase fw-bold mb-4">
+            Links relacionados:
+          </h6>
+          <p>
+            <a href="../index.html" class="text-reset">Pagina inicial</a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">Cadastro</a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">Ajuda</a>
+          </p>
+        </div>
+
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+          <h6 class="text-uppercase fw-bold mb-4">Contato</h6>
+          <p><i class="fas fa-home me-3"></i> Belo Horizonte, MG</p>
+          <p>
+            <i class="fas fa-envelope me-3"></i>
+            emilly.fernandesads@gmail.com
+          </p>
+          <p><i class="fas fa-phone me-3"></i> +55 31 98901-8686</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+    © 2021 Copyright:
+    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+  </div>
+</footer>
+</body>
+</html>
