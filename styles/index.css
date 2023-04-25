@@ -3,6 +3,7 @@
   margin-right: 50px;
   max-width: 550px;
   min-width: 400px;
+  padding: 30px;
 }
 #textoSobreEmpresa h2{
   margin-bottom: 20px;
@@ -14,7 +15,13 @@
   align-items: center;
   min-height: 100vh;
   background: rgb(244,244,245);
-background: radial-gradient(circle, rgba(244,244,245,1) 0%, rgba(217,225,230,1) 32%, rgba(170,193,204,1) 66%, rgba(85,134,158,1) 100%);
+  background: radial-gradient(circle, rgba(244,244,245,1) 0%, rgba(217,225,230,1) 32%, rgba(170,193,204,1) 66%, rgba(85,134,158,1) 100%);
+}
+#imgSobreEmpresa{
+  padding-bottom: 30px;
+}
+#imgProjeto{
+  padding-top: 30px;
 }
 #sobreProjeto{
   display: flex;
@@ -30,6 +37,7 @@ background: radial-gradient(circle, rgba(244,244,245,1) 0%, rgba(217,225,230,1) 
   margin-left: 50px;
   max-width: 510px;
   min-width: 400px;
+  padding: 30px;
 }
 #textoProjeto h2{
   margin-bottom: 20px;
