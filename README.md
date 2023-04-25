@@ -1,6 +1,6 @@
 # Realocação Involuntaria
 
-<img src="images\screenshots\Captura tela inicio.png" width="1000px" height="490px"/>
+<img src="images\screenshots\Captura tela inicio.png"/>
 
 Projeto proposto no curso de front-end da Prodabel, o objetivo era de criar um site responsivo para uma mineadora que esta prestes a começar um projeto de "Realocação Involuntaria", o site precisava ter um formulario para cadastro das familias, uma aba de login para os trabalhadores que vão acessar o formulario, era preciso criar o nome fantasia da mineradora além de sua logo e suas cores.
 
@@ -79,3 +79,5 @@ https://user-images.githubusercontent.com/115494759/234298113-2623b076-0709-4863
 
 
 </div>
+
+
