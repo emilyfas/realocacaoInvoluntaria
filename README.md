@@ -13,8 +13,6 @@ A mineradora criada no projeto de chama "Mineradora Fernandes" tem como slogan "
 * [Índice](#índice)
 
 * [Seções](#seções)
-* [Informações compartilhadas](#informacoes-compartilhadas)
-
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Acesso ao projeto](#acesso-ao-projeto)
 * [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
