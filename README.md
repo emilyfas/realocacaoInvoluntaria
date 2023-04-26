@@ -72,10 +72,8 @@ A mineradora criada no projeto de chama "Mineradora Fernandes" tem como slogan "
 
 ## Formulario
 
-<img src="images\screenshots\Captura footer.png"/>
+![Captura form](https://user-images.githubusercontent.com/115494759/234690607-2c9ae92e-3259-4852-a157-09bfb1a144a0.png)
 
-
-https://user-images.githubusercontent.com/115494759/234298113-2623b076-0709-4863-aa55-b7eb631cf9b0.mp4
 
 
 
