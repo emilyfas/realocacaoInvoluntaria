@@ -61,12 +61,15 @@ Navbar responsiva e completa com todas as seções do site linkadas para fácil 
 
 ![Captura sobre empresa](https://user-images.githubusercontent.com/115494759/234691220-1dbfee15-b86b-459a-a55b-616552400bed.png)
 </div>
+Seção simples com algumas informações da empresa, mas que é impressindivel para um site pois passa mais confiabilidade pro usuario alem de promover a empresa, sua cultura, seus valores e os serviços prestados. A cor da empresa é disposta no fundo para promover a identidade visual da empresa.
 
 <div align= "center">
 
 ## Sobre Projeto
 
 ![Captura sobre realocacao](https://user-images.githubusercontent.com/115494759/234691180-03f990b4-5a12-447b-8ffc-4b9d45446bb3.png)
+  
+Seção simples com algumas informações sobre o projeto de realocação, bem parecida com a seção de informações da empresa.
 </div>
 
 <div align= "center">
@@ -75,12 +78,15 @@ Navbar responsiva e completa com todas as seções do site linkadas para fácil 
 
 ![Captura form](https://user-images.githubusercontent.com/115494759/234690607-2c9ae92e-3259-4852-a157-09bfb1a144a0.png)
 
+O formulario se encontra em uma pagina separada do index, e pode ser acessado pela navbar, ele seria usado por funcionarios da empresa para fazer o cadastro de familias participantes da realocação, o formulario pede todas as informações necessarias e contem validação de informações como CPF, numero telefonico e email.
 
 </div>
 
 <div align= "center">
 
 ## Footer
+
+O footer conta com informações do site, como sua autora e tecnologias usadas, além de informações de contato e links relacionados a pagina em questão.
   
 ![Captura footer](https://user-images.githubusercontent.com/115494759/234691018-920c876d-69f8-427c-9dfa-affcc44cfef1.png)
 
