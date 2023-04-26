@@ -49,9 +49,10 @@ Na tela inicio (Home) temos informações essenciais sobre a empresa, seu nome, 
 ## NavBar
 ![Captura navbar](https://user-images.githubusercontent.com/115494759/234691313-bbe17f26-86a8-4496-bf81-b257749a6d40.png)
 
-Navbar responsiva e completa com todas as seções do site linkadas para fácil acesso e onde temos também um dropdown para login de funcionários e uma área de cadastro.
+Navbar responsiva e completa com todas as seções do site linkadas para fácil acesso e onde temos também um dropdown para login de funcionários com validação no email e senha (Validação ainda não incluida no projeto). Na imagem acima é possivel ver a como a navbar fica disposta em telas maiores como computadores e tablets, e na imagem abaixo é possivel ver como ela fica em telas menores como smartphones, ela se transforma em dropdown para não ocupar muito espaço na tela.
 
 ![Captura navbar responsiva](https://user-images.githubusercontent.com/115494759/234691276-284c84af-648d-4767-a09b-da6092f0bb91.png)
+ 
 </div>
 
 <div align= "center">
