@@ -96,6 +96,7 @@ O footer conta com informações do site, como sua autora e tecnologias usadas, 
 ## Tecnologias usadas no projeto:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
 
    [Índice :point_up:](#índice)
 </div>
