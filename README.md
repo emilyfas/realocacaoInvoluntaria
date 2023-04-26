@@ -31,11 +31,12 @@ A mineradora criada no projeto de chama "Mineradora Fernandes" tem como slogan "
 
 ---
 <div align= "center">
+
 ## Home
   
 ![Captura tela inicio](https://user-images.githubusercontent.com/115494759/234691356-1a92ecc2-8b0e-4046-97aa-0cfda8a6c395.png)
 
-Na tela inicio (Home) temos informações Essenciais
+Na tela inicio (Home) temos informações essenciais sobre a empresa, seu nome, logotipo, slogan, imagens de projetos realizados que estão dispostas em um carousel, além de uma navbar responsiva e com varias utilidades.
   
 </div>
 
@@ -47,6 +48,8 @@ Na tela inicio (Home) temos informações Essenciais
 
 ## NavBar
 ![Captura navbar](https://user-images.githubusercontent.com/115494759/234691313-bbe17f26-86a8-4496-bf81-b257749a6d40.png)
+
+Navbar responsiva e completa com todas as seções do site linkadas para fácil acesso e onde temos também um dropdown para login de funcionários e uma área de cadastro.
 
 ![Captura navbar responsiva](https://user-images.githubusercontent.com/115494759/234691276-284c84af-648d-4767-a09b-da6092f0bb91.png)
 </div>
