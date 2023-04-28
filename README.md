@@ -35,9 +35,7 @@ A mineradora criada no projeto de chama "Mineradora Fernandes" tem como slogan "
 ![Captura tela inicio](https://user-images.githubusercontent.com/115494759/234691356-1a92ecc2-8b0e-4046-97aa-0cfda8a6c395.png)
 
 Na tela inicio (Home) temos informações essenciais sobre a empresa, seu nome, logotipo, slogan, imagens de projetos realizados que estão dispostas em um carousel, além de uma navbar responsiva e com varias utilidades.
-
-
-  
+ 
 </div>
 <div align="right">
 
@@ -55,7 +53,6 @@ Navbar responsiva e completa com todas as seções do site linkadas para fácil 
 
 ![Captura navbar responsiva](https://user-images.githubusercontent.com/115494759/234691276-284c84af-648d-4767-a09b-da6092f0bb91.png)
  
-  [Índice :point_up:](#índice)
 </div>
 <div align="right">
 
@@ -70,7 +67,6 @@ Navbar responsiva e completa com todas as seções do site linkadas para fácil 
 ![Captura sobre empresa](https://user-images.githubusercontent.com/115494759/234691220-1dbfee15-b86b-459a-a55b-616552400bed.png)
 Seção simples com algumas informações da empresa, mas que é impressindivel para um site pois passa mais confiabilidade pro usuario alem de promover a empresa, sua cultura, seus valores e os serviços prestados. A cor da empresa é disposta no fundo para promover a identidade visual da empresa.
   
-  [Índice :point_up:](#índice)
 </div>
 <div align="right">
 
@@ -86,7 +82,6 @@ Seção simples com algumas informações da empresa, mas que é impressindivel 
   
 Seção simples com algumas informações sobre o projeto de realocação, bem parecida com a seção de informações da empresa.
 
-  [Índice :point_up:](#índice)
 </div>
 <div align="right">
 
@@ -102,7 +97,6 @@ Seção simples com algumas informações sobre o projeto de realocação, bem p
 
 O formulario se encontra em uma pagina separada do index, e pode ser acessado pela navbar, ele seria usado por funcionarios da empresa para fazer o cadastro de familias participantes da realocação, o formulario pede todas as informações necessarias e contem validação de informações como CPF, numero telefonico e email.
 
-  [Índice :point_up:](#índice)
 </div>
 <div align="right">
 
@@ -118,7 +112,6 @@ O footer conta com informações do site, como sua autora e tecnologias usadas, 
   
 ![Captura footer](https://user-images.githubusercontent.com/115494759/234691018-920c876d-69f8-427c-9dfa-affcc44cfef1.png)
 
-  [Índice :point_up:](#índice)
 </div>
 <div align="right">
 
@@ -133,7 +126,6 @@ O footer conta com informações do site, como sua autora e tecnologias usadas, 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
 
-   [Índice :point_up:](#índice)
 </div>
 <div align="right">
 
@@ -184,8 +176,6 @@ Alguns meios de contato:
 <a href="https://www.linkedin.com/in/emilly-fernandes-alves-de-souza-2b451a24b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </div>
-
-[Índice :point_up:](#índice)
 </div>
 <div align="right">
 
