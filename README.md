@@ -45,7 +45,7 @@ Na tela inicio (Home) temos informações essenciais sobre a empresa, seu nome, 
 </div>
 
 
-
+---
 <div align= "center">
 
 ## NavBar
@@ -57,7 +57,12 @@ Navbar responsiva e completa com todas as seções do site linkadas para fácil 
  
   [Índice :point_up:](#índice)
 </div>
+<div align="right">
 
+  [Índice :point_up:](#índice)
+</div>
+
+---
 <div align= "center">
 
 ## Sobre Nós
@@ -67,8 +72,12 @@ Seção simples com algumas informações da empresa, mas que é impressindivel 
   
   [Índice :point_up:](#índice)
 </div>
+<div align="right">
 
+  [Índice :point_up:](#índice)
+</div>
 
+---
 <div align= "center">
 
 ## Sobre Projeto
@@ -79,7 +88,12 @@ Seção simples com algumas informações sobre o projeto de realocação, bem p
 
   [Índice :point_up:](#índice)
 </div>
+<div align="right">
 
+  [Índice :point_up:](#índice)
+</div>
+
+---
 <div align= "center">
 
 ## Formulario
@@ -90,7 +104,12 @@ O formulario se encontra em uma pagina separada do index, e pode ser acessado pe
 
   [Índice :point_up:](#índice)
 </div>
+<div align="right">
 
+  [Índice :point_up:](#índice)
+</div>
+
+---
 <div align= "center">
 
 ## Footer
@@ -98,6 +117,10 @@ O formulario se encontra em uma pagina separada do index, e pode ser acessado pe
 O footer conta com informações do site, como sua autora e tecnologias usadas, além de informações de contato e links relacionados a pagina em questão.
   
 ![Captura footer](https://user-images.githubusercontent.com/115494759/234691018-920c876d-69f8-427c-9dfa-affcc44cfef1.png)
+
+  [Índice :point_up:](#índice)
+</div>
+<div align="right">
 
   [Índice :point_up:](#índice)
 </div>
@@ -112,6 +135,10 @@ O footer conta com informações do site, como sua autora e tecnologias usadas, 
 
    [Índice :point_up:](#índice)
 </div>
+<div align="right">
+
+  [Índice :point_up:](#índice)
+</div>
 
 ---
 <div id="acesso-ao-projeto">
@@ -119,6 +146,10 @@ O footer conta com informações do site, como sua autora e tecnologias usadas, 
 ## Acesso ao projeto:
 
 Você pode [acessar o código fonte do projeto inicial](https://github.com/emilyfas/Portfolio/find/main) ou [baixá-lo](https://github.com/emilyfas/Portfolio/archive/refs/heads/main.zip).
+</div>
+<div align="right">
+
+  [Índice :point_up:](#índice)
 </div>
 
 ---
@@ -133,6 +164,10 @@ Após baixar o projeto, você pode abrir com o VS Code. Para isso, na tela imici
 - Por fim clique em OK
 
 Assim será possivel visualizar o codigo da pagina, para rodar o projeto basta executar o arquivo "index.html".
+</div>
+<div align="right">
+
+  [Índice :point_up:](#índice)
 </div>
 
 ---
@@ -151,4 +186,8 @@ Alguns meios de contato:
 </div>
 
 [Índice :point_up:](#índice)
+</div>
+<div align="right">
+
+  [Índice :point_up:](#índice)
 </div>
