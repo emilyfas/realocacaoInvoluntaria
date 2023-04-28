@@ -37,12 +37,12 @@ A mineradora criada no projeto de chama "Mineradora Fernandes" tem como slogan "
 Na tela inicio (Home) temos informações essenciais sobre a empresa, seu nome, logotipo, slogan, imagens de projetos realizados que estão dispostas em um carousel, além de uma navbar responsiva e com varias utilidades.
 
 
-  <div align="right">
-
-    [Índice :point_up:](#índice)
-  </div>
+  
 </div>
+<div align="right">
 
+  [Índice :point_up:](#índice)
+</div>
 
 
 
