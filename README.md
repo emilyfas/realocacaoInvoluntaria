@@ -2,7 +2,6 @@
 
 ![Captura tela inicio](https://user-images.githubusercontent.com/115494759/234691466-92a9f419-5951-4d00-bff4-6de200fedb84.png)
 
-
 Projeto proposto no curso de front-end da Prodabel, o objetivo era de criar um site responsivo para uma mineadora que esta prestes a começar um projeto de "Realocação Involuntaria", o site precisava ter um formulario para cadastro das familias, uma aba de login para os trabalhadores que vão acessar o formulario, era preciso criar o nome fantasia da mineradora além de sua logo e suas cores.
 
 A mineradora criada no projeto de chama "Mineradora Fernandes" tem como slogan "Agua mole e pedra dura, tanto bate ate que fura".
@@ -41,7 +40,6 @@ Na tela inicio (Home) temos informações essenciais sobre a empresa, seu nome, 
 
   [Índice :point_up:](#índice)
 </div>
-
 
 ---
 <div align= "center">
