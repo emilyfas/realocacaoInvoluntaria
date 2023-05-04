@@ -6,6 +6,10 @@ Projeto proposto no curso de front-end da Prodabel, o objetivo era de criar um s
 
 A mineradora criada no projeto de chama "Mineradora Fernandes" tem como slogan "Agua mole e pedra dura, tanto bate ate que fura".
 
+## Visualize o Projeto
+https://emilyfas.github.io/realocacaoInvoluntaria/
+
+
 ---
 # Índice 
 * [Título e Imagem de capa](#realocação-involuntaria)
