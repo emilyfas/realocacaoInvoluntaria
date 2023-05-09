@@ -139,7 +139,7 @@ O footer conta com informações do site, como sua autora e tecnologias usadas, 
 
 ## Acesso ao projeto:
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/emilyfas/Portfolio/find/main) ou [baixá-lo](https://github.com/emilyfas/Portfolio/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/emilyfas/realocacaoInvoluntaria/find/main) ou [baixá-lo](https://github.com/emilyfas/realocacaoInvoluntaria/archive/refs/heads/main.zip).
 </div>
 <div align="right">
 
